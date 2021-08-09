@@ -4,7 +4,7 @@
 
 I'm still ***Padawan*** developer, but I aspire to become a ***Jedi Master*** developer some day
 
- Jedi skills:   🌐 REACT
+ Jedi skills:   🌐 REACT.
                 🔄 JS 
                 🔤 HTML 
                 🎨 CSS

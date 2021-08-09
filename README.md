@@ -4,7 +4,10 @@
 
 I'm still ***Padawan*** developer, but I aspire to become a ***Jedi Master*** developer some day
 
- Jedi skills:   REACT / JS / HTML / CSS
+ Jedi skills:   🌐 REACT
+                🔄 JS 
+                🔤 HTML 
+                🎨 CSS
 
 You can find me in : https://www.linkedin.com/in/gonzalo-osvaldo-ag%C3%BCera-3a3a49218/
 
